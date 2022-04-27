@@ -300,9 +300,10 @@ export default {
     ...mapState({
        userInfo:state=> state.user.userInfo
     }),
-    ...mapState({
-      keywordslist: state => state.home.keywordslist
-    })
+    // ...mapState({
+    //   keywordslist: state => state.home.keywordslist
+    // }),
+    ...mapGetters(["keywordslist"])
   },
   
 };

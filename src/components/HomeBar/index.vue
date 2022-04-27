@@ -1,7 +1,7 @@
 <template>
 <div>
   <!-- 右侧固定 -->
-		<div class="home_tool_bar" style="display:none">
+		<div class="home_tool_bar">
 			<a href="#" class="a1">
 				<div class="avatar_app">
 					<img src="./images/bar_app.png" alt="" class="block">

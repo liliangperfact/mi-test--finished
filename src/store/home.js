@@ -54,7 +54,10 @@ const actions = {
 
 const getters = {
   bannerList(state){
-    return state.bannerList
+    return state.bannerList;
+  },
+  keywordslist(state){
+    return state.keywordslist;
   }
 }
 
