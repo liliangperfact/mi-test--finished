@@ -9,7 +9,7 @@
           <!-- 左侧 -->
           <ul class="shortcut">
             <li class="item">
-              <a href="#">小米商城</a>
+              <a href="#">小米商城MI</a>
             </li>
             <li class="line">|</li>
             <li class="item">
@@ -50,7 +50,7 @@
             <li class="line">|</li>
             <li class="item download">
               <a href="#">
-                下载APP
+                下载小米APP
                 <!-- 下拉 -->
                 <div class="hide-wrapper">
                   <div class="hide_inner">
